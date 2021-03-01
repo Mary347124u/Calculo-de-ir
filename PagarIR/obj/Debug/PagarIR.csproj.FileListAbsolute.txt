@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\obj\Debug\PagarIR.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\obj\Debug\PagarIR.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\obj\Debug\PagarIR.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\bin\Debug\PagarIR.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\bin\Debug\PagarIR.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\bin\Debug\PagarIR.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\obj\Debug\PagarIR.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\PagarIR\PagarIR\obj\Debug\PagarIR.pdb
